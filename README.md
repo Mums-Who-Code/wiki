@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Your journey in MumsWhoCode
 
-You can use the [editor on GitHub](https://github.com/Mums-Who-Code/wiki/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Our Mission**
+LEARN - SHARE - GROW
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Our Vision**
+- Learning Platform : Build technical skills with real time examples
+- Marketing Platform : Get recognition for your learning milestones
+- Portfolio Builder : Explore your area of interest and discover your brand
 
-### Markdown
+**More Details**
+[MumsWhoCode Introduction](https://www.youtube.com/watch?v=fPO9tc_t5NE)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Important Links
+[Youtube](https://www.youtube.com/channel/UC2Vc4bNtgerQEEaag8xvkjA)
+[Github](https://github.com/Mums-Who-Code)
+[LinkedIn](https://www.linkedin.com/company/mums-who-code)
+[Facebook](https://www.facebook.com/mumswhocodedotcom)
+[Twitter](https://twitter.com/_mumswhocode)
+[Instagram](https://www.instagram.com/_mumswhocode/)
 
-```markdown
-Syntax highlighted code block
+## Participant Lifecycle
+<img width="377" alt="image" src="https://user-images.githubusercontent.com/89320816/159198305-b0472867-48c1-471b-b5ad-aa0872fa7edc.png">
 
-# Header 1
-## Header 2
-### Header 3
+## Execution
+We function in a 4-weeks sprint. Our meeting plan (6 to 7 PM) is outlined below.
 
-- Bulleted
-- List
+- Monday : Standup
+- First Thursday : Group Discussion / Debate
+- Second Thursday : Read & Share
+- Third Thursday : Individual Presentation
+- Fourth Thursday : Sprint Demo & Retrospection 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mums-Who-Code/wiki/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## First-Step
+Registration(https://form.jotform.com/220788199374168)
