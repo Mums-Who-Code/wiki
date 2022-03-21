@@ -33,3 +33,10 @@ We function in a 4-weeks sprint. Our meeting plan (6 to 7 PM) is outlined below.
 
 ## First-Step
 Register here - [JotForm](https://form.jotform.com/220788199374168)
+
+## Learning Tracks
+[C# Fundamentals](https://github.com/Mums-Who-Code/C.Sharp.Fundamentals)
+
+[C# Basic Software Operations](https://github.com/Mums-Who-Code/C.Sharp.Basic.Software.Operations)
+
+[C# End to End Product Development](https://github.com/Mums-Who-Code/C.Sharp.End.To.End)
