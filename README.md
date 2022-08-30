@@ -23,13 +23,7 @@ LEARN - SHARE - GROW
 <img width="377" alt="image" src="https://user-images.githubusercontent.com/89320816/159198305-b0472867-48c1-471b-b5ad-aa0872fa7edc.png">
 
 ## Execution
-We function in a 4-weeks sprint. Our meeting plan (6 to 7 PM) is outlined below.
-
-- Monday : Standup
-- First Thursday : Group Discussion / Debate
-- Second Thursday : Read & Share
-- Third Thursday : Individual Presentation
-- Fourth Thursday : Sprint Demo & Retrospection 
+We function in a 4-weeks sprint.
 
 ## First-Step
 Register here - [JotForm](https://form.jotform.com/220788199374168)
