@@ -26,7 +26,7 @@ LEARN - SHARE - GROW
 We function in a 4-weeks sprint.
 
 ## First-Step
-Register here - [JotForm](https://form.jotform.com/220788199374168)
+Register here - [JotForm](To be updated)
 
 ## Learning Tracks
 [C# Fundamentals](https://github.com/Mums-Who-Code/C.Sharp.Fundamentals)
